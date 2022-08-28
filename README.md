@@ -18,3 +18,7 @@ uni dimensional visualisation techniques (boxplot, barplot, etc) and you can obv
 techniques and it can be parametred and you get to choose the variables you want to visualise and also can add smooth lines that represent the relationship between two variables
 (linear, polynomial, logarithmic). Finally the last dashboard has correlation of the numeric variables and possibility to perform t-testing, ANOVA and linear regression.
 
+# Permission
+Feel free to use these files as practice tutorials but beware the code is messy and I did not have time to make look nice and reproducable.
+
+Lastly, this is project was done for a course at TELECOM NANCY in France by ya boi (aka me).
